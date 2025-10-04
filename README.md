@@ -10,6 +10,8 @@ Word count and average word length
 Hashtags, mentions, and capital letter ratio
 The project leverages a RandomForest classifier trained on a synthetic dataset, showcasing feature importance, prediction probabilities, and interactive visualizations for both evaluation and user inputs.
 
+<img width="617" height="71" alt="image" src="https://github.com/user-attachments/assets/96b95606-2cbb-41c8-9940-44fe9a5c4d51" />
+
 # Key Features
 Text Preprocessing: Cleans tweets by removing URLs, mentions, hashtags, and punctuation.
 Feature Engineering: Combines text-based TF-IDF vectors with numeric sentiment and structural features.
