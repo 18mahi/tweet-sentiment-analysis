@@ -21,12 +21,12 @@ Top feature importance visualized with Matplotlib.
 Dynamic User Input: Users can type custom tweets and receive predicted sentiment and probability distribution interactively.
 
 # Technologies & Libraries
-Python 3.x
-Pandas & Numpy
-Scikit-learn
-TextBlob
-Matplotlib & Seaborn
-Plotly
+-Python 3.x
+-Pandas & Numpy
+-Scikit-learn
+-TextBlob
+-Matplotlib & Seaborn
+-Plotly
 
 # How to Use
 Run the notebook in Jupyter.
