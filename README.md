@@ -36,3 +36,17 @@ Observe probability bars and feature contributions for interpretability.
 
 # Learning Outcomes
 This project demonstrates practical NLP techniques, intermediate-level feature engineering, model evaluation, and interactive visualization, making it an excellent addition to a data science portfolio. It also provides a foundation to explore more advanced topics like bigram/trigram TF-IDF, deep learning, or sentiment analysis on larger datasets.
+
+<img width="814" height="292" alt="image" src="https://github.com/user-attachments/assets/91ce01c0-e9dc-4bf0-8e0e-0aada90acb06" />
+
+<img width="798" height="286" alt="image" src="https://github.com/user-attachments/assets/53f65548-5e8c-4b88-809f-13123ebaa7a4" />
+
+<img width="804" height="289" alt="image" src="https://github.com/user-attachments/assets/bfb3ae38-17fc-47e7-a132-cd043513cf0e" />
+
+<img width="809" height="285" alt="image" src="https://github.com/user-attachments/assets/ac55d7a2-08e8-434f-9486-c410de99bc88" />
+
+<img width="814" height="295" alt="image" src="https://github.com/user-attachments/assets/a23385cf-cb9b-4d0b-857a-210fa7f0decb" />
+
+<img width="812" height="283" alt="image" src="https://github.com/user-attachments/assets/bee285e2-387e-4662-acfa-994f8120cee8" />
+
+<img width="771" height="268" alt="image" src="https://github.com/user-attachments/assets/02c6bc3b-cc80-4384-b284-b5618594b58b" />
